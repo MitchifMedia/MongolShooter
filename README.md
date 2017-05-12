@@ -1,4 +1,4 @@
-# MongolShooter
+# MongolWarriors
 Open-World Mongol horse archer battle with basic AI and terrain.
 
 MongolWarriors testing game. 
